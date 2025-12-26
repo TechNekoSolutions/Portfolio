@@ -30,7 +30,7 @@ export default function Navbar() {
         data-wow-delay="0.2s"
       >
         <a href="index.html" className="navbar-brand d-block d-lg-none">
-          <h1 className="text-primary fw-bold m-0">TechNeko</h1>
+          <h1 className="text-primary fw-bold m-0">syed jahanzaib</h1>
         </a>
         <button
           type="button"
@@ -75,7 +75,7 @@ export default function Navbar() {
             href="index.html"
             className="navbar-brand bg-secondary py-3 px-4 mx-3 d-none d-lg-block"
           >
-            <h1 className="text-primary fw-bold m-0">TechNeko</h1>
+            <h1 className="text-primary fw-bold m-0">syed jahanzaib</h1>
           </a>
           <div className="navbar-nav me-auto py-0">
             <Link
